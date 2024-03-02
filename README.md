@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Laboratório Dev 😁
+## Bem-vindo(a) ao perfil do Laboratório Dev ⚗️
 
  <div>
    <a href="https://github.com/dev-laboratorio">
